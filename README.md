@@ -221,3 +221,13 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 ##    📊 Future Improvements:
 - Build an interactive Power BI dashboard to visually explore job market trends, salary insights, and domain-wise demand in a more dynamic way.
 - Apply predictive modeling to forecast future salaries and job demand trends across different data domains based on historical data (2020–2024)
+
+
+---
+
+
+##     Disclaimer: 
+
+- This project is for educational and portfolio purposes only. Insights are based solely on the publicly available ai-jobs.net Salaries     dataset and should not be interpreted as industry-wide conclusions.
+
+---
