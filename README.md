@@ -1,6 +1,7 @@
 ##    📊 Data Job Market Analysis (2020–2024)
 
----
+> **Project Status: Completed**
+
 
 ##    📊 Project Overview:
 
