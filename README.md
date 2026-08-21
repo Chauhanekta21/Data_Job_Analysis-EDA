@@ -127,7 +127,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ##    📊 Exploratory Data Analysis (EDA):
 
-###🔹 1. Job Demand Across Data Domains
+### 🔹 1. Job Demand Across Data Domains
 -  Data Science dominates job listings
 -  Data Engineering and Data Analysis follow closely
 -  AI/ML shows strong emerging demand
@@ -136,7 +136,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ---
   
-###🔹 2. Top Roles per Domain
+### 🔹 2. Top Roles per Domain
 - Each domain is dominated by one key role
 - Example:
   - Data Science → Data Scientist
@@ -145,7 +145,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ---
   
-###🔹 3. Salary Comparison Across Domains
+### 🔹 3. Salary Comparison Across Domains
 -  Highest salaries: Machine Learning & AI
 -  Strong salaries: Leadership & Data Architecture
 -  Lower salaries: Data Analysis & BI
@@ -154,14 +154,14 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ---
 
-###🔹 4. Top Paying Job Roles
+### 🔹 4. Top Paying Job Roles
 -  Highest salaries found in Directors, Managers, Architects (AI / Cloud / Data)
 
 ![Jupyter](Images/jobrole_salary.png)
 
 ---
 
-###🔹 5. Demand vs Salary Relationship
+### 🔹 5. Demand vs Salary Relationship
 -  High demand ≠ High salary
 -  AI/ML: High salary + moderate demand (premium niche)
 -  Data Analysis: High demand + low salary
@@ -170,7 +170,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ---
 
-###🔹 6. Demand Trend (2020–2024)
+### 🔹 6. Demand Trend (2020–2024)
 -  Strong growth from 2020–2023
 -  Peak demand in 2023
 -  Slight drop in 2024 (possible incomplete data)
@@ -180,7 +180,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ---
 
-###🔹 7. Salary Trend (2020–2024)
+### 🔹 7. Salary Trend (2020–2024)
 -  AI/ML shows highest salary growth
 -  Data Engineering shows steady rise
 -  BI and Data Analysis show slow growth
@@ -189,7 +189,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ---
 
-###🔹 8. Experience Level Insights
+### 🔹 8. Experience Level Insights
 -  Senior roles dominate job demand
 -  Executive roles are fewer but highest paying
 -  Entry-level opportunities are limited
@@ -198,7 +198,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ---
 
-###🔹 9. Salary by Experience Level
+### 🔹 9. Salary by Experience Level
 -  Executive → highest salary
 -  Senior → strong earning potential
 -  Entry-level → lowest salary
@@ -207,7 +207,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ---
 
-###🔹 10. Work Model Distribution
+### 🔹 10. Work Model Distribution
 - On-site roles dominate the market at 57.75%
 - Remote roles account for 38.83%
 - Hybrid roles have the lowest share at 3.41%
@@ -216,7 +216,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ---
 
-###🔹 11. Work Model Preferences
+### 🔹 11. Work Model Preferences
 -  On-site dominates all domains
 -  Remote is second most common
 -  Hybrid adoption is minimal
@@ -225,7 +225,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ---
 
-###🔹 12. Salary by Work Model
+### 🔹 12. Salary by Work Model
 -  On-site = highest salary
 -  Remote = nearly equal pay
 -  Hybrid = lowest salary
@@ -234,7 +234,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ---
 
-###🔹 13. Company Locations
+### 🔹 13. Company Locations
 -  Highest-paying regions include: Qatar, United States, Canada, Saudi Arabia
 -  High salaries are globally distributed
 
@@ -242,7 +242,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ---
 
-###🔹 14. Company Size Hiring Patterns
+### 🔹 14. Company Size Hiring Patterns
 -  Medium companies hire the most
 -  Large companies follow
 -  Small companies have lowest hiring
@@ -251,7 +251,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ---
 
-###🔹 15. Salary by Company Size
+### 🔹 15. Salary by Company Size
 -  Medium companies → highest median salary
 -  Large companies → second highest
 -  Small companies → lowest
@@ -260,7 +260,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ---
 
-###🔹 16. Employment Type Distribution
+### 🔹 16. Employment Type Distribution
 -  Full-time dominates the market
 -  Contract and part-time roles are rare
 -  Industry strongly prefers stable employment
