@@ -32,7 +32,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
     - Salary and trend exploration
     - Data-driven insights and conclusions
 
-- **App Preview**
+- **Live Dashboard Preview**
 
 ![Streamlit](Images/streamlit_app.png)
 
