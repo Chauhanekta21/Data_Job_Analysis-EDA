@@ -35,7 +35,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 - **Live Dashboard Preview**
 
-![Streamlit](Images/streamlit_app.png)
+![Streamlit](Images/streamlit_dashboard.png)
 
 
 🔹 Option 2: Browse the Jupyter Notebook
