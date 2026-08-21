@@ -23,7 +23,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 ##    📊 View Project:
 
 🔹 Option 1: Explore Interactive Streamlit Dashboard (Recommended)
--  Live Dashboard: https://datajobmarketanalysis-dashboard.streamlit.app
+-  Live Dashboard: https://data-job-market-analysis-dashboard.streamlit.app/
 
 - Experience the complete analysis through an interactive web application with:
     - Dynamic filters and controls
@@ -31,6 +31,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
     - Domain-wise analysis
     - Salary and trend exploration
     - Data-driven insights and conclusions
+
 
 - **Live Dashboard Preview**
 
@@ -46,6 +47,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
     - EDA & Visualization
     - Key Insights
  
+
 - **Jupyter Notebook Preview**
 
 ![Jupyter](Images/jupyter.png)
@@ -56,6 +58,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 🔹 Option 3: View EDA Notebook via GitHub Pages
 -  Notebook Viewer: https://chauhanekta21.github.io/Data_Job_Market_Analysis
 -  file:///C:/Users/chauh/OneDrive/Desktop/Python_Projects/Data_Job_Market_Analysis/Github%20Pages/index.html
+
 
 - **EDA Notebook via GitHub Pages Preview**
 
