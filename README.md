@@ -23,7 +23,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 ##    📊 View Project:
 
 🔹 Option 1: Explore Interactive Streamlit Dashboard (Recommended)
--  Live Dashboard: https://data-job-market-analysis-dashboard.streamlit.app/
+-  Live Dashboard: [data-job-market-analysis-live-dashboard](https://data-job-market-analysis-dashboard.streamlit.app/)
 
 - Experience the complete analysis through an interactive web application with:
     - Dynamic filters and controls
@@ -39,7 +39,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 
 🔹 Option 2: Browse the Jupyter Notebook
--  Jupyter Notebook: https://github.com/Chauhanekta21/Data_Job_Market_Analysis/blob/master/Jupyter%20Notebook/main_file.ipynb
+-  Jupyter Notebook: [data-job-market-analysis-jupyter-notebook](https://github.com/Chauhanekta21/Data_Job_Market_Analysis/blob/master/Jupyter%20Notebook/main_file.ipynb)
 
 - Includes:
     - Complete source code
@@ -56,15 +56,14 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 
 🔹 Option 3: View EDA Notebook via GitHub Pages
--  Notebook Viewer: https://chauhanekta21.github.io/Data_Job_Market_Analysis
--  file:///C:/Users/chauh/OneDrive/Desktop/Python_Projects/Data_Job_Market_Analysis/Github%20Pages/index.html
+-  Notebook Viewer: [data-job-market-analysis-github-pages](https://chauhanekta21.github.io/Data_Job_Market_Analysis)
 
 
 - **EDA Notebook via GitHub Pages Preview**
 
 ![Jupyter](Images/github_page.png)
 
-🔹 Option 3: Download and View Locally
+🔹 Option 4: Download and View Locally
 -  Download main_file.ipynb or index.html and open them locally for the complete offline EDA experience.
 
 ---
@@ -124,80 +123,145 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ##    📊 Exploratory Data Analysis (EDA):
 
-🔹 1. Job Demand Across Data Domains
+###🔹 1. Job Demand Across Data Domains
 -  Data Science dominates job listings
 -  Data Engineering and Data Analysis follow closely
 -  AI/ML shows strong emerging demand
+
+![Jupyter](Images/domain_demand1.png)
+
+---
   
-🔹 2. Top Roles per Domain
+###🔹 2. Top Roles per Domain
 - Each domain is dominated by one key role
 - Example:
   - Data Science → Data Scientist
   - Data Engineering → Data Engineer
   - BI → BI Analyst
+
+---
   
-🔹 3. Salary Comparison Across Domains
+###🔹 3. Salary Comparison Across Domains
 -  Highest salaries: Machine Learning & AI
 -  Strong salaries: Leadership & Data Architecture
 -  Lower salaries: Data Analysis & BI
 
-🔹 4. Top Paying Job Roles
+![Jupyter](Images/domain_salary.png)
+
+---
+
+###🔹 4. Top Paying Job Roles
 -  Highest salaries found in Directors, Managers, Architects (AI / Cloud / Data)
 
-🔹 5. Demand vs Salary Relationship
+![Jupyter](Images/jobrole_salary.png)
+
+---
+
+###🔹 5. Demand vs Salary Relationship
 -  High demand ≠ High salary
 -  AI/ML: High salary + moderate demand (premium niche)
 -  Data Analysis: High demand + low salary
 
-🔹 6. Demand Trend (2020–2024)
+![Jupyter](Images/salary_vs_demand.png)
+
+---
+
+###🔹 6. Demand Trend (2020–2024)
 -  Strong growth from 2020–2023
 -  Peak demand in 2023
 -  Slight drop in 2024 (possible incomplete data)
 -  AI/ML shows fastest growth after 2022
 
-🔹 7. Salary Trend (2020–2024)
+![Jupyter](Images/domain_demand_trend.png)
+
+---
+
+###🔹 7. Salary Trend (2020–2024)
 -  AI/ML shows highest salary growth
 -  Data Engineering shows steady rise
 -  BI and Data Analysis show slow growth
 
-🔹 8. Experience Level Insights
+![Jupyter](Images/domain_salary_trend.png)
+
+---
+
+###🔹 8. Experience Level Insights
 -  Senior roles dominate job demand
 -  Executive roles are fewer but highest paying
 -  Entry-level opportunities are limited
 
-🔹 9. Salary by Experience Level
+![Jupyter](Images/exp_level_demand.png)
+
+---
+
+###🔹 9. Salary by Experience Level
 -  Executive → highest salary
 -  Senior → strong earning potential
 -  Entry-level → lowest salary
 
-🔹 10. Work Model Preferences
+![Jupyter](Images/exp_level_salary.png)
+
+---
+
+###🔹 10. Work Model Distribution
+- On-site roles dominate the market at 57.75%
+- Remote roles account for 38.83%
+- Hybrid roles have the lowest share at 3.41%
+
+![Jupyter](Images/work_model_%.png)
+
+---
+
+###🔹 11. Work Model Preferences
 -  On-site dominates all domains
 -  Remote is second most common
 -  Hybrid adoption is minimal
 
-🔹 11. Salary by Work Model
+![Jupyter](Images/work_model_demand.png)
+
+---
+
+###🔹 12. Salary by Work Model
 -  On-site = highest salary
 -  Remote = nearly equal pay
 -  Hybrid = lowest salary
 
-🔹 12. Company Locations
+![Jupyter](Images/work_model_salary.png)
+
+---
+
+###🔹 13. Company Locations
 -  Highest-paying regions include: Qatar, United States, Canada, Saudi Arabia
 -  High salaries are globally distributed
 
-🔹 13. Company Size Hiring Patterns
+![Jupyter](Images/top_location_salary.png)
+
+---
+
+###🔹 14. Company Size Hiring Patterns
 -  Medium companies hire the most
 -  Large companies follow
 -  Small companies have lowest hiring
 
-🔹 14. Salary by Company Size
+![Jupyter](Images/company_size_demand.png)
+
+---
+
+###🔹 15. Salary by Company Size
 -  Medium companies → highest median salary
 -  Large companies → second highest
 -  Small companies → lowest
 
-🔹 15. Employment Type Distribution
+![Jupyter](Images/company_size_salary.png)
+
+---
+
+###🔹 16. Employment Type Distribution
 -  Full-time dominates the market
 -  Contract and part-time roles are rare
 -  Industry strongly prefers stable employment
+
+![Jupyter](Images/job_type_demand.png)
 
 ---
 
