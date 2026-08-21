@@ -38,7 +38,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 
 🔹 Option 2: Browse the Jupyter Notebook
--  Jupyter Notebook: https://github.com/Chauhanekta21/Data_Job_Market_Analysis/blob/master/main_file.ipynb
+-  Jupyter Notebook: https://github.com/Chauhanekta21/Data_Job_Market_Analysis/blob/master/Jupyter%20Notebook/main_file.ipynb
 
 - Includes:
     - Complete source code
@@ -54,7 +54,8 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 
 🔹 Option 3: View EDA Notebook via GitHub Pages
--  Notebook Viewer: https://chauhanekta21.github.io/Data_Job_Market_Analysis/
+-  Notebook Viewer: https://chauhanekta21.github.io/Data_Job_Market_Analysis
+-  file:///C:/Users/chauh/OneDrive/Desktop/Python_Projects/Data_Job_Market_Analysis/Github%20Pages/index.html
 
 - **EDA Notebook via GitHub Pages Preview**
 
