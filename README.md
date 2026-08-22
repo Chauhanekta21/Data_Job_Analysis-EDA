@@ -326,7 +326,8 @@ Data_Job_Market_Analysis/
 │   └── utils/
 │       ├── charts.py
 │       ├── data_loader.py
-│       └── formatting.py
+│       ├── formatting.py
+│       └── __init__.py
 │
 ├── index.html
 ├── README.md
