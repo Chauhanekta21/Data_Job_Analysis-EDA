@@ -22,7 +22,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ##    📊 View Project:
 
-**🔹 Option 1:** Explore Interactive Streamlit Dashboard (Recommended)
+**🔹 Option 1: Explore Interactive Streamlit Dashboard (Recommended)**
 -  Live Dashboard: [data-job-market-analysis-live-dashboard](https://data-job-market-analysis-dashboard.streamlit.app/)
 
 - Experience the complete analysis through an interactive web application with:
@@ -39,7 +39,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ---
 
-**🔹 Option 2:** Browse the Jupyter Notebook
+**🔹 Option 2: Browse the Jupyter Notebook**
 -  Jupyter Notebook: [data-job-market-analysis-jupyter-notebook](https://github.com/Chauhanekta21/Data_Job_Market_Analysis/blob/master/Jupyter%20Notebook/main_file.ipynb)
 
 - Includes:
@@ -57,7 +57,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ---
 
-**🔹 Option 3:** View EDA Notebook via GitHub Pages
+**🔹 Option 3: View EDA Notebook via GitHub Pages**
 -  Notebook Viewer: [data-job-market-analysis-github-pages](https://chauhanekta21.github.io/Data_Job_Market_Analysis)
 
 
@@ -67,7 +67,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ---
 
-**🔹 Option 4:** Download and View Locally
+**🔹 Option 4: Download and View Locally**
 -  Download main_file.ipynb or index.html and open them locally for the complete offline EDA experience.
 
 ---
