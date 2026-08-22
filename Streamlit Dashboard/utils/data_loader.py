@@ -4,16 +4,12 @@ import pandas as pd
 import streamlit as st
 
 
-DATA_DIR = Path(__file__).resolve().parents[1] / "data"
-ROOT_DIR = Path(__file__).resolve().parents[1]
+DATA_DIR = Path(__file__).resolve().parents[2] / "Data"
 RAW_DATA_PATHS = [
     DATA_DIR / "data_science_salaries.csv",
-    ROOT_DIR / "data_science_salaries.csv",
-    ROOT_DIR.parent / "data_science_salaries.csv",
 ]
 CLEAN_DATA_PATHS = [
     DATA_DIR / "data_science_salaries_clean.csv",
-    ROOT_DIR / "data_science_salaries_clean.csv",
 ]
 
 
