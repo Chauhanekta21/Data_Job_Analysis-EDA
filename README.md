@@ -141,7 +141,14 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 - Example:
   - Data Science → Data Scientist
   - Data Engineering → Data Engineer
-  - BI → BI Analyst
+  - Analyst → Data Analyst
+
+![Jupyter](Images/data_science_demand.png)
+
+![Jupyter](Images/data_engineer_demand.png)
+
+![Jupyter](Images/data_analyst_demand.png)
+
 
 ---
   
@@ -194,7 +201,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 -  Executive roles are fewer but highest paying
 -  Entry-level opportunities are limited
 
-![Jupyter](Images/exp_level_demand.png)
+![Jupyter](Images/exp_demand.png)
 
 ---
 
@@ -203,7 +210,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 -  Senior → strong earning potential
 -  Entry-level → lowest salary
 
-![Jupyter](Images/exp_level_salary.png)
+![Jupyter](Images/exp_salary.png)
 
 ---
 
@@ -212,7 +219,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 - Remote roles account for 38.83%
 - Hybrid roles have the lowest share at 3.41%
 
-![Jupyter](Images/work_model_%.png)
+![Jupyter](Images/wk.png)
 
 ---
 
@@ -221,7 +228,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 -  Remote is second most common
 -  Hybrid adoption is minimal
 
-![Jupyter](Images/work_model_demand.png)
+![Jupyter](Images/wk_demand.png)
 
 ---
 
@@ -230,7 +237,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 -  Remote = nearly equal pay
 -  Hybrid = lowest salary
 
-![Jupyter](Images/work_model_salary.png)
+![Jupyter](Images/wk_salary.png)
 
 ---
 
@@ -238,7 +245,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 -  Highest-paying regions include: Qatar, United States, Canada, Saudi Arabia
 -  High salaries are globally distributed
 
-![Jupyter](Images/top_location_salary.png)
+![Jupyter](Images/location.png)
 
 ---
 
@@ -247,7 +254,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 -  Large companies follow
 -  Small companies have lowest hiring
 
-![Jupyter](Images/company_size_demand.png)
+![Jupyter](Images/cs_demand.png)
 
 ---
 
@@ -256,7 +263,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 -  Large companies → second highest
 -  Small companies → lowest
 
-![Jupyter](Images/company_size_salary.png)
+![Jupyter](Images/cs_salary.png)
 
 ---
 
@@ -265,7 +272,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 -  Contract and part-time roles are rare
 -  Industry strongly prefers stable employment
 
-![Jupyter](Images/job_type_demand.png)
+![Jupyter](Images/emp_type.png)
 
 ---
 
