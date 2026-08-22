@@ -297,6 +297,44 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ---
 
+##    📊 Repository Structure:
+
+```text
+Data_Job_Market_Analysis/
+├── Data/
+│   ├── data_science_salaries.csv
+│   └── data_science_salaries_clean.csv
+│
+├── Images/
+│   └── 22 Visualization and dashboard PNG images
+│
+├── Jupyter Notebook/
+│   └── main_file.ipynb
+│
+├── Streamlit Dashboard/
+│   ├── .gitignore
+│   ├── Dashboard.py
+│   ├── pages/
+│   │   ├── 1_Project_Overview.py
+│   │   ├── 2_Data_Understanding.py
+│   │   ├── 3_Data_Cleaning.py
+│   │   ├── 4_Domain_Demand.py
+│   │   ├── 5_Salary_Analysis.py
+│   │   ├── 6_Trends.py
+│   │   ├── 7_Work_Company_Employment.py
+│   │   └── 8_Final_Insights.py
+│   └── utils/
+│       ├── charts.py
+│       ├── data_loader.py
+│       └── formatting.py
+│
+├── index.html
+├── README.md
+└── requirements.txt
+```
+
+---
+
 ##    📊 Skills Demonstrated:
 - Exploratory Data Analysis (EDA) on real-world job market data
 - Data Cleaning and Preprocessing (handling missing values, duplicates, and outliers)
